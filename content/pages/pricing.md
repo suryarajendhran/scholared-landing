@@ -34,7 +34,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Enterprise
+      - title: Platform
         subtitle: For very large businesses
         price: $149/m
         details: |-
