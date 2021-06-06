@@ -29,7 +29,7 @@ sections:
           *   150,000 questions stored
           *   25 GB storage
           *   Priority support
-        highlight: true
+        highlight: false
         actions:
           - label: Order Now
             url: /signup
