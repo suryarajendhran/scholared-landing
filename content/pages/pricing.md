@@ -50,6 +50,7 @@ sections:
             url: /signup
             style: secondary
             has_icon: false
+            icon: envelope
   - section_id: faq
     type: section_faq
     background: gray
