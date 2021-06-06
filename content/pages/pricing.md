@@ -37,11 +37,14 @@ sections:
       - title: Platform
         subtitle: For full fledged platforms
         price: Flexi
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   Must have 5000+ weekly active users
+          *   Everything in Product
+          *   Algorithmic control
+          *   Certification from Cognitive Science bodies
+          *   No cap on storage and requests
+          *   Beta builds
+          *   On-premise implementations
         actions:
           - label: Order Now
             url: /signup
