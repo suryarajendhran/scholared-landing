@@ -73,10 +73,11 @@ sections:
           pro-rata basis. But future applications for subscription will be
           considered with lower priority.
       - question: How is our privacy ensured?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit.
+        answer: >
+          Given that our primary target market is tech startups/companies, we
+          understand your need to protect your identity. Right from the media to
+          investors, we have you covered. Talk to a customer representative to
+          help you walk through our steps to protect your identity.
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
