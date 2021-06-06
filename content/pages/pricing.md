@@ -22,7 +22,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Professional
+      - title: Product
         subtitle: 'For startups, betas and MVPs'
         price: $250/m
         details: |-
