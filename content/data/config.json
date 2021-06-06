@@ -24,11 +24,6 @@
                 "style": "link"
             },
             {
-                "label": "Apply",
-                "url": "/signup",
-                "style": "primary"
-            },
-            {
                 "label": "Blog",
                 "url": "lorem-ipsum",
                 "style": "link",
@@ -38,6 +33,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Apply",
+                "url": "/signup",
+                "style": "primary"
             }
         ]
     },
