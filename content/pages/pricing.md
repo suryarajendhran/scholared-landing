@@ -38,7 +38,7 @@ sections:
         subtitle: For full fledged platforms
         price: Flexi
         details: |
-          *   Must have 5000+ weekly active users
+          *   **Must have 2500+ weekly active users**
           *   Everything in Product
           *   Algorithmic control
           *   Certification from Cognitive Science bodies
