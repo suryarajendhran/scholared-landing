@@ -54,7 +54,7 @@ sections:
           You can always cancel your subscription and you will be refunded on a
           pro-rata basis. But future applications for subscription will be
           considered with lower priority.
-      - question: How is our privacy ensured?
+      - question: How is my privacy ensured?
         answer: >
           Given that our primary target market is tech startups/companies, we
           understand your need to protect your identity. Right from the media to
