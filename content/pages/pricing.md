@@ -79,14 +79,11 @@ sections:
           investors, we have you covered. Talk to a customer representative to
           help you walk through our steps to protect your identity.
       - question: What if Scholared is available to my competitor?
-        answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+        answer: >
+          We take on very few customers and try to avoid overlap within our
+          clientele. If you are building a law school study app for a region, we
+          will not accept applications from clients operating in the same market
+          of the same geographical region.
 seo:
   title: Pricing
   description: This is the pricing page
