@@ -56,7 +56,7 @@ sections:
     background: gray
     title: Frequently Asked Questions
     faq_items:
-      - question: What if ?
+      - question: What if we ?
         answer: >-
           Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
           tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
