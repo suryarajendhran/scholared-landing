@@ -35,7 +35,7 @@ sections:
             url: /signup
             style: primary
       - title: Platform
-        subtitle: For very large businesses
+        subtitle: For full fledged platforms
         price: $149/m
         details: |-
           * Vestibulum non eros quis
