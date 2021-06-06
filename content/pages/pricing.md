@@ -9,7 +9,7 @@ sections:
       We qualify organisations that have at least 500 active users/week for a
       subscription. To learn more, click here.
     pricing_plans:
-      - title: Basic
+      - title: Ideation
         subtitle: For small businesses
         price: $5/m
         details: |-
