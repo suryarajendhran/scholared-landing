@@ -71,7 +71,7 @@ sections:
     background: white
     title: Testimonials
     subtitle: >-
-      Seeing is believing. Here are some wonderful things educators are saying
+      Hearing is believing. Here are some wonderful things educators are saying
       about us.
     reviews:
       - author: Eric Widget
