@@ -129,7 +129,9 @@ seo:
     - name: 'twitter:title'
       value: Scholared - Cognitive Science done right
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        Helping startups and enterprises integrate Cognitive Science into their
+        knowledge flow.
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
