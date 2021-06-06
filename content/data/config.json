@@ -40,7 +40,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "/images/Group 1.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "Cognitive Science for every edtech startup\n"
