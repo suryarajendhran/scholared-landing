@@ -10,7 +10,7 @@ sections:
       subscription. To learn more, click here.
     pricing_plans:
       - title: Ideation
-        subtitle: For small businesses
+        subtitle: 'For ideas, MVPs and alpha products'
         price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet
