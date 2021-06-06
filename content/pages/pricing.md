@@ -46,7 +46,7 @@ sections:
           *   Beta builds
           *   On-premise implementations
         actions:
-          - label: Order Now
+          - label: Contact Support
             url: /signup
             style: secondary
   - section_id: faq
