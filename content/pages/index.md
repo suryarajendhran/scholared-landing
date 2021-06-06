@@ -40,10 +40,11 @@ sections:
       - title: Millions of possibilities
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Whether you're creating the next Anki or an internal quality
+          assessment tool or a language learning tool for disabled children, our
+          APIs have you covered. We have perfected the core process of learning
+          so others can build on it.
         actions:
           - label: Learn More
             url: /features
