@@ -107,7 +107,7 @@ sections:
     title: Latest Posts
 seo:
   title: Scholared
-  description: The preview of the Azimuth theme
+  description: 'Learn, teach and test better.'
   extra:
     - name: 'og:type'
       value: website
