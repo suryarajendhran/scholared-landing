@@ -116,7 +116,9 @@ seo:
       value: Scholared - Cognitive Science done right
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        Helping startups and enterprises integrate Cognitive Science into their
+        knowledge flow.
       keyName: property
     - name: 'og:image'
       value: images/hero.png
