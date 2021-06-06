@@ -13,8 +13,9 @@ sections:
           *   200,000 responses per month
           *   Unlimited questions
           *   Standard dashboard
-          *   Email support
+          *   Priority support
           *   Standard builds
+          *   Can be availed for 6 months at most
         actions:
           - label: Apply
             url: /signup
