@@ -11,6 +11,7 @@ sections:
         price: $1999/m
         details: |
           *   200,000 responses per month
+          *   15 GB storage for content
           *   Unlimited questions
           *   Standard dashboard
           *   Priority support
