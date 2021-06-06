@@ -83,7 +83,10 @@ sections:
           We take on very few customers and try to avoid overlap within our
           clientele. If you are building a law school study app for a region, we
           will not accept applications from clients operating in the same market
-          of the same geographical region.
+          of the same geographical region. As you start expanding and have more
+          active users throughout the globe we are happy to restrict our
+          services accordingly. We prefer to have long term mutually beneficial
+          relationships. 
 seo:
   title: Pricing
   description: This is the pricing page
