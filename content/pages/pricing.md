@@ -24,7 +24,7 @@ sections:
             style: secondary
       - title: Professional
         subtitle: 'For startups, betas and MVPs'
-        price: $49/m
+        price: $250/m
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
