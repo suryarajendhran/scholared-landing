@@ -16,7 +16,7 @@ sections:
           *   Email support
           *   Standard builds
         actions:
-          - label: Sign Up
+          - label: Apply
             url: /signup
             style: secondary
       - title: Product
