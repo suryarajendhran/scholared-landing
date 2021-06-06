@@ -8,7 +8,7 @@ sections:
     pricing_plans:
       - title: Ideation
         subtitle: For ideas and alpha products
-        price: $99/m
+        price: $1999/m
         details: |
           *   200,000 responses per month
           *   Unlimited questions
