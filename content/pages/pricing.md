@@ -7,7 +7,7 @@ sections:
     title: Pricing Plans
     subtitle: >-
       We qualify organisations that have at least 500 active users/week for a
-      subscription. To learn more, click here.
+      subscription higher than Ideation. To learn more, click here.
     pricing_plans:
       - title: Ideation
         subtitle: For ideas and alpha products
