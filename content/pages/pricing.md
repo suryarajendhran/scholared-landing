@@ -11,7 +11,7 @@ sections:
     pricing_plans:
       - title: Ideation
         subtitle: 'For ideas, MVPs and alpha products'
-        price: $5/m
+        price: $29/m
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
