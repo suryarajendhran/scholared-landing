@@ -10,7 +10,7 @@ sections:
       subscription. To learn more, click here.
     pricing_plans:
       - title: Ideation
-        subtitle: 'For ideas, MVPs and alpha products'
+        subtitle: For ideas and alpha products
         price: $29/m
         details: |
           *   200,000 responses per month
