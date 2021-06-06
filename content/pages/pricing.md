@@ -44,11 +44,17 @@ sections:
         price: Flexi
         details: |
           *   **Must have 2500+ weekly active users**
-          *   Everything in Product
-          *   Algorithmic control
-          *   Certification from Cognitive Science bodies
+
           *   No cap on storage and requests
+
+          *   All features in Product
+
+          *   Algorithmic control
+
+          *   Certification from Cognitive Science bodies
+
           *   Beta builds
+
           *   On-premise implementations
         actions:
           - label: Contact Support
