@@ -78,7 +78,7 @@ sections:
           understand your need to protect your identity. Right from the media to
           investors, we have you covered. Talk to a customer representative to
           help you walk through our steps to protect your identity.
-      - question: How can we use Scholared when trying?
+      - question: What about competitive edge?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
           dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
