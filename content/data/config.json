@@ -126,5 +126,6 @@
         ],
         "content": "&copy; Scholared"
     },
-    "domain": "https://scholared-landing-ca393.netlify.app"
+    "domain": "https://scholared-landing-ca393.netlify.app",
+    "favicon": "/images/bulb.svg"
 }
