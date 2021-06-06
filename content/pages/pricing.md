@@ -36,7 +36,7 @@ sections:
             style: primary
       - title: Platform
         subtitle: For full fledged platforms
-        price: $149/m
+        price: Flexi
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
