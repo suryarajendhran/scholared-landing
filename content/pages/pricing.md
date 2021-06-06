@@ -24,10 +24,15 @@ sections:
         price: $250/m
         details: |
           *   **Must have 500+ weekly active users**
-          *   Customisable white-labelled dashboard
-          *   Unlimited requests
+
+          *   4M requests
+
           *   150,000 questions stored
+
           *   25 GB storage
+
+          *   Customisable white-labelled dashboard
+
           *   Priority support
         highlight: false
         actions:
