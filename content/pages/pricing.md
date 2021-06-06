@@ -20,7 +20,7 @@ sections:
           - label: Apply
             url: /signup
             style: secondary
-      - title: Platform
+      - title: Partner
         subtitle: For full fledged platforms
         price: Flexi
         details: |
