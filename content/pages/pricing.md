@@ -72,7 +72,7 @@ sections:
           You can always cancel your subscription and you will be refunded on a
           pro-rata basis. But future applications for subscription will be
           considered with lower priority.
-      - question: 'What is '
+      - question: 'What is the '
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
