@@ -24,7 +24,7 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Apply",
                 "url": "/signup",
                 "style": "primary"
             }
