@@ -7,7 +7,7 @@ sections:
     title: Pricing Plans
     pricing_plans:
       - title: Trial
-        subtitle: For ideas and alpha products
+        subtitle: For new customers testing the waters
         price: $1999/m
         details: |
           *   200,000 responses per month
