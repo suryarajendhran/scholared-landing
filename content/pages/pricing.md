@@ -48,7 +48,7 @@ sections:
         actions:
           - label: Contact Support
             url: /signup
-            style: secondary
+            style: primary
             has_icon: true
             icon: envelope
   - section_id: faq
