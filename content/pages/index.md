@@ -26,10 +26,10 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          Research is boring. And time-consuming. And risky. So Scholared
-          decided to take the most difficult aspect of learning and began to
-          perfect it. So you can get started with your edtech solution knowing
-          you are backed by rigorous research and testing.
+          We get it. Research is boring. And time-consuming. And risky. So
+          Scholared decided to take the most difficult aspect of learning and
+          began to perfect it. So you can get started with your edtech solution
+          knowing you are backed by rigorous research and testing.
         actions:
           - label: Learn More
             url: /features
