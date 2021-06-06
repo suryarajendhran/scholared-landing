@@ -20,26 +20,6 @@ sections:
           - label: Apply
             url: /signup
             style: secondary
-      - title: Product
-        subtitle: 'For startups, betas and MVPs'
-        price: $250/m
-        details: |
-          *   **Must have 500+ weekly active users**
-
-          *   4M requests
-
-          *   150,000 questions stored
-
-          *   25 GB storage
-
-          *   Customisable white-labelled dashboard
-
-          *   Priority support
-        highlight: false
-        actions:
-          - label: Apply
-            url: /signup
-            style: secondary
       - title: Platform
         subtitle: For full fledged platforms
         price: Flexi
