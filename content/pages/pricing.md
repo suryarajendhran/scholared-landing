@@ -78,7 +78,7 @@ sections:
           understand your need to protect your identity. Right from the media to
           investors, we have you covered. Talk to a customer representative to
           help you walk through our steps to protect your identity.
-      - question: What if Scholared is available to my competitor?
+      - question: I don't want to Scholared to be avai?
         answer: >
           We take on very few customers and try to avoid overlap within our
           clientele. If you are building a law school study app for a region, we
