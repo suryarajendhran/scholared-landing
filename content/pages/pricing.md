@@ -6,7 +6,7 @@ sections:
     background: gray
     title: Pricing Plans
     pricing_plans:
-      - title: Ideation
+      - title: Trial
         subtitle: For ideas and alpha products
         price: $1999/m
         details: |
