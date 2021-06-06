@@ -31,7 +31,7 @@ sections:
           *   Priority support
         highlight: false
         actions:
-          - label: 'Sign Up '
+          - label: Apply
             url: /signup
             style: secondary
       - title: Platform
