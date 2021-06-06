@@ -22,12 +22,13 @@ sections:
       - title: Product
         subtitle: 'For startups, betas and MVPs'
         price: $250/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |
+          *   Only available for organisations with 500+ weekly active users
+          *   Customisable white-labelled dashboard
+          *   Unlimited requests
+          *   150,000 questions stored
+          *   25 GB storage
+          *   Priority support
         highlight: true
         actions:
           - label: Order Now
