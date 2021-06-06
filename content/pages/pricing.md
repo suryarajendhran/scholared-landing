@@ -23,7 +23,7 @@ sections:
         subtitle: 'For startups, betas and MVPs'
         price: $250/m
         details: |
-          *   Only available for organisations with 500+ weekly active users
+          *   **Must have 500+ weekly active users**
           *   Customisable white-labelled dashboard
           *   Unlimited requests
           *   150,000 questions stored
