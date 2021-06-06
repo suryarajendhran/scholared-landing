@@ -23,7 +23,7 @@ sections:
             url: /signup
             style: secondary
       - title: Professional
-        subtitle: For medium-sized businesses
+        subtitle: 'For startups, betas and MVPs'
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
