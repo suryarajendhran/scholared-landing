@@ -96,7 +96,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Get started today
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Build the next big thing for the knowledge economy
     actions:
       - label: Get Started
         url: /signup
