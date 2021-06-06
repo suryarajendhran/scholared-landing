@@ -33,7 +33,7 @@ sections:
         actions:
           - label: Order Now
             url: /signup
-            style: primary
+            style: secondary
       - title: Platform
         subtitle: For full fledged platforms
         price: Flexi
