@@ -12,11 +12,12 @@ sections:
       - title: Ideation
         subtitle: 'For ideas, MVPs and alpha products'
         price: $29/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |
+          *   200,000 responses per month
+          *   Unlimited questions
+          *   Standard dashboard
+          *   Email support
+          *   Standard builds
         actions:
           - label: Order Now
             url: /signup
