@@ -5,7 +5,9 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: >-
+      We qualify organisations that have at least 500 active users/week for a
+      subscription. To learn more, click here.
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
