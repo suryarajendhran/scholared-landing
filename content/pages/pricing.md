@@ -49,7 +49,7 @@ sections:
           - label: Contact Support
             url: /signup
             style: secondary
-            has_icon: false
+            has_icon: true
             icon: envelope
   - section_id: faq
     type: section_faq
