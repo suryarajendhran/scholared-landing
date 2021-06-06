@@ -62,6 +62,10 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+        content: >
+          In addition to the API, Scholared provides you with your very own
+          dashboard customised to your tastes and more importantly, your brand
+          (AKA we white label)
   - section_id: reviews
     type: section_reviews
     background: white
