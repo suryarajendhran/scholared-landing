@@ -21,7 +21,7 @@ sections:
             url: /signup
             style: secondary
       - title: Partner
-        subtitle: For full fledged platforms
+        subtitle: For large organisations
         price: Flexi
         details: |
           *   **Must have 2500+ weekly active users**
