@@ -69,8 +69,8 @@ sections:
     background: white
     title: Testimonials
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+      Seeing is believing. Here are some wonderful things educators are saying
+      about us.
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
