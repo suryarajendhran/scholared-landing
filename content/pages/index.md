@@ -12,6 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+    title: 'We do the research, you reap the results'
   - section_id: features
     type: section_features
     background: gray
